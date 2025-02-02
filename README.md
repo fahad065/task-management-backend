@@ -1,10 +1,10 @@
 INSTALLATION SETUP:
 
 create .env file locally with the following declarations:
-PORT
-MONGO_URI
-JWT_SECRET
 
+PORT=5001
+MONGO_URI=mongodb+srv://fahadfaheem:fahad123@cluster1.jzd56q9.mongodb.net/Database1
+JWT_SECRET=12345qwerty
 
 Clone the github repository and run these commands:
 1. npm install
